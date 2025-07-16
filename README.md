@@ -28,4 +28,4 @@ The dataset was sourced from [Kaggle Brain MRI Images for Brain Tumor Detection]
 
 1️⃣ Clone this repository:
 ```bash
-git clone https://github.com/ahsantushar12/brain-tumor-mri-classification.git
+https://github.com/ahsantushar12/brain-tumor-mri-classification.git
